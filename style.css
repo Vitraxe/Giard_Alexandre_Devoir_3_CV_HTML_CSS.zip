@@ -19,13 +19,18 @@ body {
     background-color: #f5f5f5;
     padding: 20px;
 }
+.color-bleu {
+    color: #17abb3;
+}
 
 .PP img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
+    margin-left: 120px;
+    
 }
 
 .section {
@@ -55,17 +60,25 @@ header {
     background-color:  #17abb3;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
+    margin-left: 190px;
+    margin-right: 190px;
 }
 
 header h1 {
     margin: 0;
     font-size: 28px;
+    margin-left: 350px;
 }
 
 header h2 {
     margin: 5px 0 0;
     font-size: 18px;
+    margin-left: 350px;   
+}
+
+.contacte {
+    margin-left: 350px;
 }
 
 .contacte-1 img {
@@ -100,6 +113,8 @@ footer {
     padding: 10px;
     background-color:  #17abb3;
     margin-top: 20px;
+    margin-left: 190px;
+    margin-right: 190px;
 }
 
 footer img {
